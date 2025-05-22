@@ -1,5 +1,5 @@
 
-# Google AgentSpace - AI Agents Catalog
+# AI Agents Catalog
 
 This document outlines specialized AI Agents designed for enhancing engineering and operational efficiency using Google AgentSpace.
 
